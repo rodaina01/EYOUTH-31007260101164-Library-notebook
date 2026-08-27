@@ -1,3 +1,4 @@
+dc06928 Add git log
 797e1e8 Make the connection between github and my notebook
 0bd5425 task 2 is done now make the task2_cleaned_data.csv
 1e8e808 done Task 1 , i make the task1_combined_dataset.csv
